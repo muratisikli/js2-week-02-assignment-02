@@ -8,6 +8,7 @@ test('should be "hicoders41@hicoders.ch" in the 0th of the new array', () => {
     'Switzerland55@gmail.com',
     'Zurich4155@gmail.com',
     'HiCoders41@gmail.com',
+  
   ]);
   expect(result[0]).toBe('hicoders41@hicoders.ch');
 });
